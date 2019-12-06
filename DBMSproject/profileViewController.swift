@@ -27,6 +27,10 @@ class profileViewController: UIViewController, UITableViewDelegate, UITableViewD
         cell1.textLabel?.text=eventNames[indexPath.row]
         cell1.textLabel?.textColor = .black
         return cell1
+        
+        
+        // awefberifberuf
+//        serthwre
     }
     
     
